@@ -35,7 +35,8 @@
   font-size: 20px;
 }
 .head{
-  background: url(images/showcase.jpg) center;
+  background: url(images/showcase.jpg) center no-repeat;
+  background-size: cover;
   height: 100vh;
 }
 .body1{
